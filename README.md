@@ -42,7 +42,7 @@ Cancer has been implicated to be a major cause of death worldwide. The molecular
 
 The workflow below shows how "..." works.
 
-
+![Screen Shot 2021-06-05 at 12 06 28 PM](https://user-images.githubusercontent.com/37585099/120889760-8772b380-c5f6-11eb-906a-c59e3acedd6b.png)
 
 ## Dependencies:
 
