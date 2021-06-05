@@ -1,21 +1,5 @@
 # Multi-Omics Data Integration Principles Key to Breast Cancer Insights 
 
-### Hackathon team:
-
-David Adeleke
-
-Margaret Wanjiku
-
-Samuel Nkrumah
-
-Imane Allali
-
-Kholoud Sanak
-
-Samuel Baffoe
-
-Hannah Nyarko
-
 ##
 
 How to cite this work in a publication: 
@@ -56,3 +40,21 @@ Installation
 Configuration
 
 Testing
+
+##
+
+### Hackathon team:
+
+David Adeleke
+
+Margaret Wanjiku
+
+Samuel Nkrumah
+
+Imane Allali
+
+Kholoud Sanak
+
+Samuel Baffoe
+
+Hannah Nyarko
