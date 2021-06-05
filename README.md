@@ -16,6 +16,12 @@ This project was part of the ASBCB Omics Codeathon.
 ## What is the problem?
 
 
+## What is "...."?
+
+
+The workflow below shows how "..." works.
+
+
 
 ## Dependencies:
 
@@ -23,3 +29,9 @@ Software
 
 
 ## How to use "Software"
+
+Installation
+
+Configuration
+
+Testing
